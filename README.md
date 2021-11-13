@@ -1,4 +1,4 @@
-# tello
+# tello_drone.py
 To run this code;
 first, install certain dependecies such as:
 Latest version of pyhton
