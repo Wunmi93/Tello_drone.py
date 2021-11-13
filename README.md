@@ -1,0 +1,2 @@
+# tello
+nip[jss]=jjukjk
